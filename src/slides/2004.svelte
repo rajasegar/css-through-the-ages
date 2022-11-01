@@ -1,5 +1,13 @@
 <script>
  import { html as hardResetCode } from './md/hard-reset.md';
+ import { html as reset2 } from './md/reset2.md';
+ import { html as reset3 } from './md/reset3.md';
+ import { html as reset4 } from './md/reset4.md';
+ import { html as reset5 } from './md/reset5.md';
+ import { html as reset6 } from './md/reset6.md';
+ import { html as reset7 } from './md/reset7.md';
+ import { html as reset8 } from './md/reset8.md';
+ import { html as reset9 } from './md/reset9.md';
 </script>
 <section>
 		<section>
@@ -18,11 +26,37 @@
 						The basic reason is that all browsers have presentation defaults, but no browsers have the same defaults. … We think of our CSS as modifying the default look of a document — but with a ‘reset’ style sheet, we can make that default look more consistent across browsers, and thus spend less time fighting with browser defaults.
 				</aside>
 		</section>
-		<section>
-				{@html hardResetCode }
-				<aside class="notes"></aside>
-		</section>
-		<section>
+    <section>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html hardResetCode }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset2 }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset3 }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset4 }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset5 }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset6 }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset7 }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset8 }
+        </div>
+        <div class="fragment fade-in-then-out absolute w-full">
+            {@html reset9 }
+        </div>
+        <aside class="notes"></aside>
+    </section>
+    <section>
 				<h2 class="bebrush orange">Wellknown CSS Resets</h2>
 				<ul class="fragment">
 						<li>Eric Meyer's CSS Reset</li>

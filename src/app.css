@@ -61,3 +61,11 @@
 .reveal pre code {
 		max-height: 500px!important;
 }
+
+.absolute {
+  position:  absolute;
+}
+
+.w-full {
+  width: 100%;
+}

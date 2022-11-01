@@ -10,7 +10,7 @@
 		<section>
 				<h2 class="bebrush orange">PostCSS</h2>
 				<p>JS based plugins to automate routine CSS operations.</p>
-				<p class="fragment">PostCSS is <span class="cyan">Babel</span> for CSS.</p>
+				<p class="fragment">PostCSS is <span class="orange">Babel</span> for CSS.</p>
 				<aside class="notes">
 						PostCSS became the defacto standard for creating CSS tooling or plugins.
 						Because the presence of a robust compiler toolchain, developers were able

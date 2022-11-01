@@ -4,7 +4,7 @@
 <section>
 		<section>
 				<h2 class="bebrush orange">2019</h2>
-				<h1 class="fragment bebrush">The Age of Utility-first css</h1>
+				<h1 class="bebrush">The Age of Utility-first css</h1>
 				<aside class="notes">
 						2019 became the age of utility-first Css
 						and TailwindCSS became a phenomenon
