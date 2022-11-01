@@ -5,8 +5,8 @@
 </script>
 <section class="/assets/backgrounds/bg5.jpg">
 		<section>
-				<h1 class="bebrush orange">2006</h1>
-				<h2 class="bebrush">The Age of Preprocessors</h2>
+				<h2 class="bebrush orange">2006</h2>
+				<h1 class="bebrush">The Age of Preprocessors</h1>
 				<img src="/assets/Sass_Logo_Color.svg.png"/>
 				<aside class="notes">
 						The year 2006 marked the beginning of CSS Preprocessors like Sass, Less and others
@@ -43,13 +43,7 @@
 						And here is the compiled css of the same code.
 				</aside>
 		</section>
-		<section>
-				<img src="/assets/npm-trends-sass.png">
-				<aside class="notes">
-						Though we had a lot of CSS preprocessor tools available, SASS still remains the leader among them
-				</aside>
 		</section>
-</section>
 
 <style>
  #code {

@@ -88,12 +88,5 @@
 				</aside>
 		</section>
 
-		<section>
-				<img src="/assets/npm-trends-bundlers.png" />
-				<aside class="notes">
-						Though we have a lot of bundler tooling available right now, webpack is the undisputed leader in the space,
-						followed by Rollup. And in recent times vite is also picking up pace due to its adoption with a lot of frameworks.
-				</aside>
-		</section>
 		
 </section>

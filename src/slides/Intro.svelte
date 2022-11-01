@@ -8,6 +8,31 @@
 		</aside>
 </section>
 <section>
+    <h2 class="bebrush orange">Ages in History</h2>
+    <div class="flex">
+        <div class="one-third">
+            <p>The Stone Age</p>
+            <img src="/assets/stone-age.jpg"/>
+            </div>
+        <div class="one-third">
+            <p>The Bronze Age</p>
+            <img src="/assets/BronzeAgeWeapons.jpg"/>
+            </div>
+        <div class="one-third">
+            <p>The Iron Age</p>
+            <img src="/assets/iron-age.webp"/>
+            </div>
+    </div>
+    <aside class="notes">
+        Human history is often defined by the transition period of different ages.
+        The Stone age, Bronze age, Iron age, etc.,
+        Each age is often characterised by the tools used during that time by the people.
+        For example, in stone age most of our ancestors were using tools made of stone
+        so the tools generally define the ages in human evolution
+        In a similar way, This is my attempt to define the history of CSS through various ages of tooling
+    </aside>
+</section>
+<section>
 		<h2 class="bebrush orange">About me</h2>
 		<ul>
 				<li><span class="cyan">Github:</span> github.com/rajasegar</li>
@@ -35,3 +60,8 @@
 		</aside>
 </section>
 
+<style>
+ .one-third {
+   width: 33%;
+ }
+    </style>

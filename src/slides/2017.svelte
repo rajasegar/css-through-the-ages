@@ -32,8 +32,8 @@
 				</aside>
 		</section>
 		<section>
-				<h1 class="bebrush orange">2017 - present</h1>
-				<h2 class="fragment bebrush">The Age of Zero-runtime CSS-in-JS</h2>
+				<h2 class="bebrush orange">2017 - present</h2>
+				<h1 class="fragment bebrush">The Age of Zero-runtime CSS-in-JS</h1>
 				<aside class="notes">
 						From 2017 till now, marked the age of zero-runtime css-in-js.
 						So what all these zero-runtime or near zero-runtime css-in-js libraries were doing

@@ -6,8 +6,8 @@
 </script>
 <section>
 		<section>
-				<h1 class="bebrush orange">2012</h1>
-				<h2 class="bebrush">the age of modular architecture</h2>
+				<h2 class="bebrush orange">2012</h2>
+				<h1 class="bebrush">the age of modular architecture</h1>
 				<aside class="notes">
 						Modular CSS is a collection of principles for writing code that is performant and maintainable at scale.
 						Modular CSS architecture gave rise a new set of CSS methodologies on how to write and

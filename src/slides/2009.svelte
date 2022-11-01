@@ -3,8 +3,8 @@
 </script>
 <section>
 		<section>
-				<h1 class="bebrush orange">2009</h1>
-				<h2 class="bebrush">the Age of Grid Systems</h2>
+				<h2 class="bebrush orange">2009</h2>
+				<h1 class="bebrush">the Age of Grid Systems</h1>
 				<aside class="notes">
 						in 2009 the web is still following the design principles of the print industry
 						And the web clearly needed a layouting system just like how the print layout is creating using grids
@@ -12,6 +12,7 @@
 		</section>
 		<section>
 				<div><img src="/assets/960gs.gif" width="200" /></div>
+        <p>12 column & 16 column grid</p>
 				<img src="/assets/containers-sample.gif"/>
 				<aside class="notes">
 						One of the most promising grid libraries at that point of time is the 960 grid system library

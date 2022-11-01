@@ -29,7 +29,8 @@
 				</aside>
 		</section>
 		<section>
-				<h1 class="bebrush orange">Atomic CSS</h1>
+				<h1 class="bebrush orange">The Age of Atomic CSS</h1>
+        <img src="/assets/atomic-css-frameworks.jpg"/>
 				<h2 class="fragment">Functional CSS</h2>
 						<p class="fragment">Small, single-purpose class names based on function</p>
 						<aside class="notes">
@@ -43,7 +44,7 @@
 				</ul>
 		</section>
 		<section>
-				<h2>Static</h2>
+				<h2 class="bebrush">Static</h2>
 				<pre>
 						<code>
 								{`
@@ -58,7 +59,7 @@
 				</pre>
 		</section>
 		<section>
-				<h2>Programmatic</h2>
+				<h2 class="bebrush">Programmatic</h2>
 				<p>For example, given this</p>
 				<pre>
 						<code>

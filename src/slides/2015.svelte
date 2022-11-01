@@ -1,7 +1,7 @@
 <section>
 <section>
-<h1 class="bebrush orange">2015</h1> 
-<h2 class="bebrush">The Age of Local CSS</h2> 
+<h2 class="bebrush orange">2015</h2> 
+<h1 class="bebrush">The Age of Local CSS</h1> 
 <h3 class="bebrush">and The End of global CSS</h3> 
 <aside class="notes">
 		CSS selectors all exist within the same global scope.

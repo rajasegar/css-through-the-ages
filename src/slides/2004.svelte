@@ -3,15 +3,15 @@
 </script>
 <section>
 		<section>
-				<h1 class="bebrush orange">2004</h1>
-				<h2 class="bebrush">The Age of CSS Resets</h2>
+				<h2 class="bebrush orange">2004</h2>
+				<h1 class="bebrush">The Age of CSS Resets</h1>
 				<aside class="notes">The year 2004 marked the beginning of the age of CSS resets</aside>
 		</section>
 		<section>
 				<h1 class="bebrush">Why <span class="orange">resets?</span></h1>
 				<ul>
 						<li class="fragment">All browsers have presentation defaults</li>
-						<li class="fragment">But no browsers have the same defaults</li>
+						<li class="fragment">No browsers have the same defaults</li>
 				</ul>
 				<aside class="notes">
 						Why we need resets in the first place? What problems they solve?
@@ -51,7 +51,6 @@
 						<li class="fragment">Normalize styles for a wide range of HTML elements.</li>
 						<li class="fragment">Correct bugs and common browser inconsistencies.</li>
 						<li class="fragment">Improve usability with subtle improvements.</li>
-						<li class="fragment">Explain the code using comments and detailed documentation.</li>
 				</ul>
 				<aside class="notes">
 						It’s worth understanding in greater detail how normalize.css differs from traditional CSS resets.
