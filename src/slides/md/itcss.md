@@ -1,0 +1,10 @@
+```css
+@import 'settings/*';
+@import 'tools/*';
+@import 'generic/*';
+@import 'elements/*';
+@import 'vendor/*';
+@import 'objects/*';
+@import 'components/*';
+@import 'utilities/*';
+```

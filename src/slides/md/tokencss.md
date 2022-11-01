@@ -1,0 +1,14 @@
+```css
+.container {
+  padding: md;          /* var(--size-md) */
+  margin: lg auto;      /* var(--size-lg) auto */
+  max-width: 8xl;       /* var(--size-8xl) */
+}
+
+.box {
+  background: primary;  /* var(--color-primary) */
+  width: full;          /* var(--size-full) */
+  height: 3xl;          /* var(--size-3xl) */
+  border-radius: md;    /* var(--radius-md) */
+}
+```

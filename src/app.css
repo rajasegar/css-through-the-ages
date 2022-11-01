@@ -1,0 +1,63 @@
+#app {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  height: 100vh;
+}
+
+.flex {
+		display: flex;
+}
+
+
+@font-face {
+  font-family: 'Permanent Marker';
+  src: url('./assets/fonts/PermanentMarker-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pacifico';
+  src: url('./assets/fonts/Pacifico-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bebrush';
+  src: url('./assets/fonts/Bebrush.otf') format('opentype');
+}
+
+
+.pacifico {
+		font-family: 'Pacifico'!important;
+}
+
+.bebrush {
+		font-family: 'Bebrush'!important;
+}
+
+.shadow-lg {
+		text-shadow: 4px 4px black!important;
+}
+
+.shadow {
+		text-shadow: 2px 2px black!important;
+}
+
+.bg-white {
+		background-color: white!important;
+}
+
+.bg-translucent {
+		background-color: rgba(0,0,0,0.5)!important;
+}
+
+.orange {
+		color: orange!important;
+}
+
+.cyan {
+		color: cyan!important;
+}
+
+.reveal pre code {
+		max-height: 500px!important;
+}
