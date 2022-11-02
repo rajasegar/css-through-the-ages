@@ -8,6 +8,11 @@
 		<section>
 				<h2 class="bebrush orange">2012</h2>
 				<h1 class="bebrush">the age of modular architecture</h1>
+				<ul class="fragment">
+						<li>Performant</li>
+						<li>Maintainable</li>
+						<li>Predictable</li>
+				</ul>
 				<aside class="notes">
 						Modular CSS is a collection of principles for writing code that is performant and maintainable at scale.
 						Modular CSS architecture gave rise a new set of CSS methodologies on how to write and
@@ -82,5 +87,15 @@
 		<section>
 				<h3>iTCSS layers</h3>
 				{@html itcss}
+		</section>
+		<section>
+				<h2 class="bebrush">Modular CSS - <span class="orange">Rules</span></h2>
+				<ul>
+						<li class="fragment">Don’t use IDs</li>
+						<li class="fragment">Don’t nest CSS deeper than one level</li>
+						<li class="fragment">Add classes to child elements</li>
+						<li class="fragment">Follow a naming convention</li>
+						<li class="fragment">Prefix class names</li>
+				</ul>
 		</section>
 </section>

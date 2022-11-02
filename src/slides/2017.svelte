@@ -34,6 +34,14 @@
 		<section>
 				<h2 class="bebrush orange">2017 - present</h2>
 				<h1 class="fragment bebrush">The Age of Zero-runtime CSS-in-JS</h1>
+				<ul>
+						<li>CSS is downloaded and parsed separately from JS</li>
+						<li>No extra parsing needed for CSS</li>
+						<li>No style duplication on SSR</li>
+						<li>Works without JavaScript</li>
+						<li>Avoiding unnecessary prop interpolations at runtime</li>
+						<li>Critical Path CSS-only injecting the styles which are actually used</li>
+				</ul>
 				<aside class="notes">
 						From 2017 till now, marked the age of zero-runtime css-in-js.
 						So what all these zero-runtime or near zero-runtime css-in-js libraries were doing

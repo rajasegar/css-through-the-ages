@@ -8,6 +8,7 @@
  import { html as reset7 } from './md/reset7.md';
  import { html as reset8 } from './md/reset8.md';
  import { html as reset9 } from './md/reset9.md';
+ import { html as normalize } from './md/normalize.md';
 </script>
 <section>
 		<section>
@@ -89,6 +90,9 @@
 				<aside class="notes">
 						It’s worth understanding in greater detail how normalize.css differs from traditional CSS resets.
 				</aside>
+		</section>
+		<section>
+				{@html normalize}
 		</section>
 		<section>
 				<h3>Normalize.css - <span class="orange">where used?</span></h3>

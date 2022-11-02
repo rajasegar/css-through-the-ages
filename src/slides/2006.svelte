@@ -38,7 +38,7 @@
 						This is a simple example of how you write CSS using SASS
 						You can define variables and use these variables in your properties and class definitions
 						There are mainly two formats that is supported by Sass compilers, SCSS and SASS
-						There are only subtle differences like punctuations and indentations but more or less the idea
+						There are only small differences like punctuations and indentations but more or less the idea
 						is the same.
 						And here is the compiled css of the same code.
 				</aside>

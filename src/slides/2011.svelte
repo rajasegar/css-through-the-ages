@@ -5,7 +5,7 @@
 		<section>
 				<h1 class="bebrush orange">2011</h1>
 				<aside class="notes">
-						the independence of South Sudan, the world's newest country;
+						South Sudan became an independent nation, and also the world's newest country;
 						Minecraft is released and goes on to become the best-selling video game;
 						The U.S. national security team gathered in the White House Situation Room to monitor the progress of Operation Neptune Spear that killed Al-Qaeda leader Osama bin Laden;
 				</aside>
