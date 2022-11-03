@@ -33,8 +33,8 @@
 		</section>
 		<section>
 				<h2 class="bebrush orange">2017 - present</h2>
-				<h1 class="fragment bebrush">The Age of Zero-runtime CSS-in-JS</h1>
-				<ul>
+				<h1 class="bebrush">The Age of Zero-runtime CSS-in-JS</h1>
+				<ul class="fragment">
 						<li>CSS is downloaded and parsed separately from JS</li>
 						<li>No extra parsing needed for CSS</li>
 						<li>No style duplication on SSR</li>
@@ -63,15 +63,6 @@
 				</aside>
 		</section>
 
-		<section>
-				<img src="/assets/npm-trends-css-in-js.png"/>
-				<footer>https://npmtrends.com/@linaria/react-vs-@stitches/react-vs-@vanilla-extract/css-vs-astroturf-vs-reshadow</footer>
-				<aside class="notes">
-						As you can see, stitches and vanilla-extract are fighting for the top spot in the zero-runtime CSS-in-JS category.
-						We have still a lot of new libraries popping up on a daily basis
-						I think it will take some more time for the tooling to consolidate in this space.
-				</aside>
-		</section>
 
 </section>
 

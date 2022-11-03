@@ -55,21 +55,12 @@
         <div class="fragment fade-in-then-out absolute w-full">
             {@html reset9 }
         </div>
-        <aside class="notes"></aside>
-    </section>
-    <section>
-				<h2 class="bebrush orange">Wellknown CSS Resets</h2>
-				<ul class="fragment">
-						<li>Eric Meyer's CSS Reset</li>
-						<li>The Yahoo! User Interface CSS Reset</li>
-				</ul>
-				<aside class="notes">
-						There were a lot of CSS resets available, but these two were used by the majority of web developers and very popular
+        <aside class="notes">
 						But CSS resets were not the right solution to a problem we were solving. We needed better approaches for cross-browser
 						consistency
 						Then came Normalize.css
 				</aside>
-		</section>
+    </section>
 		<section>
 				<h1 class="bebrush orange">Normalize.css</h1>
 				<h2 class="bebrush">2012</h2>

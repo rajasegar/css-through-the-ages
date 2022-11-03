@@ -46,23 +46,31 @@
 				<p>CSS 3 was very different from the other versions</p>
 				<ul>
 				<li class="fragment">Modules</li>
-				<li class="fragment">Each module =>  a relatively small subset of the overall specification, and either added new features or refined and extended existing features.</li>
+				<li class="fragment">Module => a relatively small subset of the overall specification</li>
 				<li class="fragment">Backward-compatible</li>
 				</ul>
 				<aside class="notes">
 						Instead of a single monolithic specification, it was published as a set of separate documents known as modules.
+						Each module is a relatively small subset of the overall specification, and it either added new features or extend existing ones
 						It was meant to be backward-compatible
 				</aside>
 		</section>
-
 <section>
+		<h1 class="bebrush">CSS4 ?</h1>
+		<img src="/assets/Waiting-Memes.jpeg" alt="Waiting memes"/>
+		<aside class="notes">
+				There is no single, integrated CSS4 specification, because the specification has been split into many separate modules which level independently.
+		</aside>
+</section>
+
+<section data-transition="fade">
 		<h2>CSS specification - Modules</h2>
 		<div class="flex">
 		<ul class="odd-even-list">
 				<li>CSS Box Alignment</li>
 				<li>CSS Animations</li>
-				<li>CSS Backgrounds</li>
-				<li>CSS Box</li>
+				<li>CSS Backgrounds and Borders</li>
+				<li>CSS Box Sizing</li>
 				<li>CSS Color</li>
 				<li>CSS Containment</li>
 				<li>CSS Fonts</li>
@@ -90,14 +98,42 @@
 		</ul>
 		</div>
 </section>
-
-<section>
-		<h1 class="bebrush">CSS4 ?</h1>
-		<img src="/assets/Waiting-Memes.jpeg" alt="Waiting memes"/>
-		<aside class="notes">
-				There is no single, integrated CSS4 specification, because the specification has been split into many separate modules which level independently.
-		</aside>
+<section data-transition="fade">
+		<h2>CSS specification - Modules</h2>
+		<div class="flex">
+		<ul class="odd-even-list">
+				<li>CSS Box Alignment</li>
+				<li>CSS Animations <span class="cyan">(Level 2)</span> </li>
+				<li>CSS Backgrounds and Borders <span class="cyan">(Level 4)</span></li>
+				<li>CSS Box Sizing<span class="cyan">(Level 4)</span> </li>
+				<li>CSS Color <span class="cyan">(Level 4)</span></li>
+				<li>CSS Containment</li>
+				<li>CSS Fonts</li>
+				<li>CSS Grid Layout</li>
+				<li>CSS Images <span class="cyan">(Level 3)</span></li>
+				<li>CSS Logical Properties</li>
+				<li>CSS Overflow</li>
+				<li>CSS Pseudo elements</li>
+				<li>CSS Shapes</li>
+		</ul>
+		<ul class="even-odd-list">
+				<li>CSS Style Attributes</li>
+				<li>CSS Tables</li>
+				<li>CSS Text <span class="cyan">(Level 4)</span> </li>
+				<li>CSS Text Decoration <span class="cyan">(Level 4)</span> </li>
+				<li>CSS Transforms <span class="cyan">(Level 2)</span></li>
+				<li>CSS Transitions</li>
+				<li>CSS Variables</li>
+				<li>CSS Viewport</li>
+				<li>CSS View Transitions</li>
+				<li>CSS Writing Modes</li>
+				<li>Media Queries <span class="cyan">(Level 4)</span></li>
+				<li>Selectors <span class="cyan">(Level 4)</span></li>
+				<li>Web animations</li>
+		</ul>
+		</div>
 </section>
+
 </section>
 
 <style>

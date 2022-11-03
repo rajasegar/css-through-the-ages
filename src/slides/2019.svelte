@@ -40,6 +40,8 @@
 				{@html css}
 		</section>
 		<section>
+				<p>Separation of Concerns?</p>
+				<p>Class creep?</p>
 				<img src="/assets/tailwind-bad.webp"/>
 				<aside class="notes">
 						Every new solution comes with its own set of new problems to solve.

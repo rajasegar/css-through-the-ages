@@ -26,7 +26,7 @@
 				</aside>
 		</section>
 		<section>
-				<img width="600" src="/assets/vjeux-talk.png" alt="CSS infographic"/>
+				<img src="/assets/vjeux-talk.png" alt="CSS infographic"/>
 				<aside class="notes">
 						As far as I can remember it all started in November 2014,
 						when Christopher Chedeau from the Facebook Front-end Infrastructure team gave
@@ -35,7 +35,7 @@
 				</aside>
 		</section>
 		<section>
-				<img width="600" src="/assets/vjeux-slide.png" alt="CSS infographic"/>
+				<img src="/assets/vjeux-slide.png" alt="CSS infographic"/>
 				<aside class="notes">
 						He talked about problems of using CSS at scale such as Global Namespace, Dependencies,
 						Dead Code elimination and so on. He also showed us how we can use CSS in JS to solve

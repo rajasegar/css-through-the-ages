@@ -42,7 +42,7 @@
 		</section>
 
 		<section data-background="/assets/css-frameworks.png">
-				<h1 class="bebrush orange">CSS Frameworks</h1>
+				<h1 class="bebrush orange">The Age of CSS Frameworks</h1>
 				<aside class="notes">
 						The year 2011 also marked the rise of CSS frameworks like Bootstrap, Foundation and so on.
 						The frameworks brought an integrated tooling experience by including all the batteries.

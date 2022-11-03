@@ -35,6 +35,7 @@
 <section>
 		<h2 class="bebrush orange">About me</h2>
 		<ul>
+				<li><span class="cyan">Slack:</span> Rajasegar Chandiran</li>
 				<li><span class="cyan">Github:</span> github.com/rajasegar</li>
 				<li><span class="cyan">Twitter:</span> rajasegar_c</li>
 				<li><span class="cyan">Dev.to:</span> dev.to/rajasegar</li>
