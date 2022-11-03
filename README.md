@@ -1,4 +1,16 @@
-# Reveal.js + Svelte + Vite
+# css-through-the-ages
+
+Slides for my Dev Hours talk about the history of CSS
+
+## How to start demo
+
+```
+git clone https://github.com/rajasegar/css-through-the-ages
+cd css-through-the-ages
+npm install
+npm run dev
+```
+
 
 ![Svelte Slides logo](public/svelte-slides.jpg)
 
